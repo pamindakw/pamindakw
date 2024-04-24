@@ -1,3 +1,12 @@
+
+<span style="color:blue"><strong>Hello there!</strong></span>
+
+## Skills
+
+<span style="color:blue">
+
+- Familiar with Linux, Bash scripting, Terraform, and CI/CD.
+
 ## Currently Learning
 
 <span style="color:blue"><strong>I'm currently learning Python, to support my ongoing development of cloud skills.</strong></span>

@@ -6,5 +6,6 @@
 
 Feel free to get in touch:
 
-- <img src="https://raw.githubusercontent.com/pamindakw/pamindakw/main/assets/email.svg" alt="email" width="32" height="32"/>: pamindaya@hotmail.com
+- - <img src="https://raw.githubusercontent.com/pamindakw/pamindakw/main/assets/email.svg" alt="email" width="16" height="16"/>:pamindaya@hotmail.com
+- [![Email](https://raw.githubusercontent.com/pamindakw/pamindakw/main/assets/email.svg)]:pamindaya@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pamindakw/)

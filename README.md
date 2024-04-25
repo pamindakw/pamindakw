@@ -9,7 +9,7 @@
 
 ## Currently Learning
 
-<span style="color:blue">**I'm currently learning Python, to support my ongoing development of cloud skills.**</span>
+<span style="color:blue">**I'm currently learning Python, to support my ongoing development of cloud skills & DevOps practices**</span>
 
 ## Get in Touch
 

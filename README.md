@@ -4,7 +4,7 @@
 
 <span style="color:blue">
 
-- Familiar with Linux, Bash scripting, Terraform and Github Actions
+- Familiar with Linux, Bash scripting, Github Actions and Terraform 
 - Seeking DevOps & Cloud Engineer opportunities to build my skills even more!
 
 ## Currently Learning

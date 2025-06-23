@@ -15,5 +15,5 @@
 
 Feel free to get in touch:
 
-- :e-mail: : pamindaya@hotmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pamindakw)
+- pamindaya@hotmail.com
+- www.linkedin.com/in/pamindakw

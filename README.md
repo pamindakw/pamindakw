@@ -1,19 +1,54 @@
-**Hello there! I'm Paminda**
+# 👋 **Hello there! I'm Paminda**
 
-## Skills
+**DevOps Engineer @ Majstro.io | DevOps & Cloud Enthusiast | 🔁 ☁️ ☸️**
 
-<span style="color:blue">
+---
 
-- Familiar with Linux, Bash scripting, Github Actions and Terraform 
-- Seeking DevOps & Cloud Engineer opportunities to build my skills even more!
+### About Me
+I have developed hands on expertise in:
 
-## Currently Learning
+➪ Scripting: Bash, YAML, Python, Groovy for automating repetitive tasks and processes.
 
-<span style="color:blue">**I'm currently learning Python, to support my ongoing development of cloud skills & DevOps practices**</span>
+➪ Cloud Platforms: AWS (Amplify, S3, EC2, ECS, ECR, RDS) for deploying and managing scalable cloud solutions.
 
-## Get in Touch
+➪ Infrastructure as Code (IaC): Proficient in Terraform to define, provision, and manage cloud infrastructure.
 
-Feel free to get in touch:
+➪ CI/CD Pipelines: Experience with GitHub Actions to streamline software deployment through automation and continuous delivery.
 
-- pamindaya@hotmail.com
-- www.linkedin.com/in/pamindakw
+➪ System Administration: Linux, Windows Server and VMware environments for maintaining and optimizing infrastructure.
+
+My ability to troubleshoot complex systems, automate processes and ensure reliability makes me well suited for roles in DevOps, Cloud Engineering, Platform Engineering and Site Reliability Engineering.
+
+I enjoy contributing to teams focused on cloud infrastructure, automation and continuous improvement. Whether working independently or collaboratively, I am committed to driving results and ensuring system efficiency.
+
+Thank you again for visiting my Github profile.
+I look forward to connecting and exploring how I can contribute to your projects!
+
+---
+
+### Tech Stack
+
+**Cloud Platforms**
+- AWS | Oracle
+
+**DevOps & Automation**
+- Docker | GitHub Actions | Jenkins | Terraform | Ansible
+
+**Monitoring & Logging**
+- New Relic | CloudWatch | Prometheus | Grafana
+
+**Programming & Scripting**
+- Python | Bash | YAML
+
+**Version Control & Collaboration**
+- Git | GitHub | GitLab | Bitbucket
+
+---
+
+### Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/pamindakw)
+- ✉️ [Email](mailto:pamindaya@hotmail.com)
+
+---
+
+
